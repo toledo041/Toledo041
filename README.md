@@ -1,6 +1,6 @@
-<h1 align="center">Hola 👋, Soy Nallely Toledo</h1>
+<h1 align="center">Hola, Soy Sandy Nallely Toledo Alonso</h1>
 <h2 align="center">Matrícula: I17050722 </h2>
-<h3 align="center">Estudiante de Ing. Informática del ITSMVA</h3>
+<h3 align="center">Estudiante de Ing. Informática del Instituto Tecnologico Superior de Monclova</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toledo041&label=Profile%20views&color=b40e90&style=flat" alt="toledo041" /> </p>
 
